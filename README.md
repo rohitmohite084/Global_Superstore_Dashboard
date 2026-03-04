@@ -19,4 +19,4 @@ A comprehensive data visualization project analyzing the **Global Superstore** d
 * **Top Performers:** Technology category drives the highest profit margins.
 * **Market Trends:** Significant sales spikes observed during Q4 (Holiday Season).
 * **Operational Efficiency:** Standard Class is the most preferred shipping mode globally.
-* 
+  
