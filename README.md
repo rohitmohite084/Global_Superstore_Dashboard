@@ -1,28 +1,29 @@
-📊 Global Superstore Analysis Dashboard
-🎯 Project Objective
-To analyze the Global Superstore dataset and provide data-driven insights into sales, profitability, and consumer behavior across various global markets.
+# 📊 Global Superstore Sales Dashboard
 
-🛠️ Tech Stack
-Tool: Power BI / Tableau / Excel (Choose your tool)
+## 📝 Project Overview
+A comprehensive data visualization project analyzing the **Global Superstore** dataset. This dashboard provides a 360-degree view of retail performance, helping businesses track sales, monitor profits, and identify growth opportunities across global markets.
 
-Data Source: Global Superstore Dataset (Orders, Returns, Users)
+## 🚀 Key Features
+* **Executive Summary:** Real-time tracking of Total Sales, Profit, and Quantity.
+* **Geographic Analysis:** Interactive map showing performance by Country and State.
+* **Product Insights:** Deep dive into Category and Sub-Category profitability.
+* **Customer Segmentation:** Analysis of Consumer, Corporate, and Home Office segments.
+* **Shipping & Trends:** Analysis of shipping modes and monthly sales growth patterns.
 
-Techniques: Data Cleaning, DAX/Calculated Fields, Data Modeling, and Interactive Visualization.
+## 🛠️ Tools Used
+* **Dashboarding:** [Power BI / Tableau / Excel]
+* **Data Cleaning:** Power Query / SQL
+* **Data Source:** Global Superstore Dataset
 
-🚀 Key Features
-Executive Summary: High-level view of Total Sales, Profit, and Order Count.
+## 💡 Key Insights
+* **Top Performers:** Technology category drives the highest profit margins.
+* **Market Trends:** Significant sales spikes observed during Q4 (Holiday Season).
+* **Operational Efficiency:** Standard Class is the most preferred shipping mode globally.
 
-Regional Analysis: Map visualizations to identify high-performing and underperforming regions.
+## 📂 Project Files
+* `Dashboard_File`: The main interactive dashboard.
+* `Data/`: Cleaned dataset used for analysis.
+* `Screenshots/`: Visual previews of the dashboard.
 
-Product Performance: Analysis of Categories (Technology, Furniture, Office Supplies) vs. Profitability.
-
-Shipping Insights: Breakdown of shipping modes and their impact on delivery times.
-
-Trend Analysis: Monthly sales growth to identify seasonal business patterns.
-
-💡 Top Insights
-Profit Drivers: Technology products lead in profit margins despite lower volume.
-
-Market Leaders: The APAC and EU regions show the highest customer retention rates.
-
-Shipping Efficiency: Standard Class is the most used mode, but Second Class offers a better balance of cost and speed.
+---
+**Developed by [Your Name]** [LinkedIn Profile Link] | [Portfolio Link]
